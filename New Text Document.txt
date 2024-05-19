@@ -1,0 +1,6 @@
+HOST=db4free.net
+PORT=3000
+USER_NAME=console_dot
+DATABASE=sb_erp_api
+PASSWORD=hEllo@911
+SECRET_KEY=your_secret_key
